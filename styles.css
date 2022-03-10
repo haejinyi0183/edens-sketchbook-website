@@ -96,45 +96,6 @@ h3 {
     width: 30em;
 }
 
-.modal-content {
-    position: relative;
-    background-color: white;
-    padding: 5px;
-    margin: auto;
-    margin-bottom: 5px;
-    width: 13em;
-    -webkit-animation-name: animatetop;
-    -webkit-animation-duration: 0.4s;
-    animation-name: animatetop;
-    animation-duration: 0.4s
-}
-
-.modal h1 {
-    margin-top: 0;
-    
-}
-
-textarea {
-    margin-top: 5px;
-    resize: vertical;
-}
-
-.submit-btn, .close-btn {
-    margin-top: 7px;
-    border-radius: 5px;
-    background-color: rgb(81, 181, 240);
-    color: #ddeaf0;
-    font-size: 16px;
-}
-
-.close-btn {
-    margin-right: 6em;
-    background-color: rgb(240, 126, 141);
-}
-
-.submit-btn:hover {
-    color: rgb(23, 112, 180);
-}
  
 .close-btn:hover {
     color: rgb(230, 65, 53);
